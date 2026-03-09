@@ -1,0 +1,2 @@
+(()=>{"use strict";document.addEventListener("DOMContentLoaded",function(){const e=document.getElementById("app");if(e){e.innerHTML="<h1>Hello World</h1>",e.style.display="flex",e.style.justifyContent="center",e.style.alignItems="center",e.style.height="100vh",e.style.margin="0",e.style.backgroundColor="#282c34";const t=e.querySelector("h1");t&&(t.style.fontSize="64px",t.style.color="#61dafb",t.style.fontFamily="Arial, sans-serif",t.style.margin="0")}})})();
+//# sourceMappingURL=bundle.js.map
